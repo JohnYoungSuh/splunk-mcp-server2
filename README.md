@@ -1,6 +1,6 @@
 # Splunk MCP Server
 
-A Model Context Protocol (MCP) server that enables AI assistants to securely search, analyze, and validate Splunk queries with built-in safety guardrails.  The goal is to develop an AI development bot that not only understands important and distinctive patterns in Splunk Technology Add-on (TA), Supporting Add-on (SA), Domain Add-on (DA), and App development, but also enforces good programming practices to help learners adopt and reinforce effective patterns during their Splunk development journey.
+The Model Context Protocol (MCP) server provides AI assistants with a secure interface to develop, search, analyze, and validate Splunk queries using built-in safety guardrails. While the Splunk MCP server alone primarily supports user-level development, our goal is to extend it for developers by building an AI development bot that not only recognizes important and distinctive patterns across Splunk Technology Add-ons (TA), Supporting Add-ons (SA), Domain Add-ons (DA), and App development, but also enforces good programming practices—helping learners adopt and reinforce effective patterns throughout their Splunk development journey.
 
 ## Overview
 
